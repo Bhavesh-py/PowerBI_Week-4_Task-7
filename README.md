@@ -6,3 +6,4 @@
 * As an example, a "Country" v/s "Profit" bar graph is created using Python Script.
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/54022245/150777281-9fefa09b-a4aa-4e7f-945b-239fdecd79ba.png)
